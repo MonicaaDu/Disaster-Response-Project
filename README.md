@@ -8,6 +8,13 @@ This project is divided in the following key sections:
 2. Machine Learning Pipeline to train a model able to classify text message in categories
 3. Web App to show model results in real time.
 
+## Installation
+Python 3.5+ (I used Python 3.7)
+Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+Natural Language Process Libraries: NLTK
+SQLlite Database Libraqries: SQLalchemy
+Web App and Data Visualization: Flask, Plotly
+
 ## Executing Program
 1. Run the following commands in the project's root directory to set up your database and model:
 - To run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
