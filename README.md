@@ -9,11 +9,11 @@ This project is divided in the following key sections:
 3. Web App to show model results in real time.
 
 ## Installation
-Python 3.5+ (I used Python 3.7)
-Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-Natural Language Process Libraries: NLTK
-SQLlite Database Libraqries: SQLalchemy
-Web App and Data Visualization: Flask, Plotly
+- Python 3.5+ (I used Python 3.7)
+- Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+- Natural Language Process Libraries: NLTK
+- SQLlite Database Libraqries: SQLalchemy
+- Web App and Data Visualization: Flask, Plotly
 
 ## Executing Program
 1. Run the following commands in the project's root directory to set up your database and model:
