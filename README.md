@@ -25,3 +25,8 @@ This project is divided in the following key sections:
 ## Additional Matreial
 - ETL Preparation Notebook: data processing step by step
 - ML Pipeline Preparation Notebook: Machine Learning Model step by step
+
+## Licensing, Authors, Acknowledgements
+[Udacity](https://www.udacity.com) for providing an amazing Data Science Nanodegree Program
+[Figure Eight](https://appen.com) for providing the relevant dataset to train the model
+
