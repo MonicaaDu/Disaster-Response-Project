@@ -16,10 +16,10 @@ This project is divided in the following key sections:
 - Web App and Data Visualization: Flask, Plotly
 
 ## File Descriptions
-1.App folder including the templates folder and "run.py" for the web application
-2.Data folder containing "DisasterResponse.db", "disaster_categories.csv", "disaster_messages.csv" and "process_data.py" for data cleaning and transfering and ETL    Preparation Notebook prsent data processing step by step
-3.Models folder including "classifier.pkl" and "train_classifier.py" for the Machine Learning model and ML Pipeline Preparation Notebook present Machine Learning Model step by step
-4. which were used for the project building
+1. App folder including the templates folder and "run.py" for the web application
+2. Data folder containing "DisasterResponse.db", "disaster_categories.csv", "disaster_messages.csv" and "process_data.py" for data cleaning and transfering and ETL    Preparation Notebook prsent data processing step by step
+3. Models folder including "classifier.pkl" and "train_classifier.py" for the Machine Learning model and ML Pipeline Preparation Notebook present Machine Learning Model step by step
+4. screenshot folder contains images show project result
 
 ## Executing Program
 1. Run the following commands in the project's root directory to set up your database and model:
