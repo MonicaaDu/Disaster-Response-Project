@@ -15,6 +15,12 @@ This project is divided in the following key sections:
 - SQLlite Database Libraqries: SQLalchemy
 - Web App and Data Visualization: Flask, Plotly
 
+## File Descriptions
+1.App folder including the templates folder and "run.py" for the web application
+2.Data folder containing "DisasterResponse.db", "disaster_categories.csv", "disaster_messages.csv" and "process_data.py" for data cleaning and transfering and ETL    Preparation Notebook prsent data processing step by step
+3.Models folder including "classifier.pkl" and "train_classifier.py" for the Machine Learning model and ML Pipeline Preparation Notebook present Machine Learning Model step by step
+4. which were used for the project building
+
 ## Executing Program
 1. Run the following commands in the project's root directory to set up your database and model:
 - To run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
@@ -22,11 +28,7 @@ This project is divided in the following key sections:
 2. Run the following command in the app's directory to run your web app. python run.py
 3. Go to http://0.0.0.0:3001/
 
-## Additional Matreial
-- ETL Preparation Notebook: data processing step by step
-- ML Pipeline Preparation Notebook: Machine Learning Model step by step
-
 ## Licensing, Authors, Acknowledgements
-[Udacity](https://www.udacity.com) for providing an amazing Data Science Nanodegree Program
-[Figure Eight](https://appen.com) for providing the relevant dataset to train the model
+- [Udacity](https://www.udacity.com) for providing an amazing Data Science Nanodegree Program
+- [Figure Eight](https://appen.com) for providing the relevant dataset to train the model
 
